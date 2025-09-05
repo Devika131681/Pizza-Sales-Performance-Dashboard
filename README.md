@@ -1,61 +1,39 @@
 # 📊 Pizza Sales Performance Dashboard  
 
-This project analyzes pizza sales data using **SQL** for data preparation and **Tableau** for visualization. The goal was to design an interactive dashboard that highlights business KPIs, trends, and customer ordering behavior.  
+This project analyzes pizza sales data using **SQL** and visualizes insights in **Tableau**.  
+It focuses on understanding sales trends, customer behavior, and top-performing products.  
+The dashboard helps identify revenue drivers and peak demand periods.  
+
+---
+
+## 🚩 Problem Statement  
+The business needs a clear view of sales performance and product demand.  
+Managers want to track revenue, order behavior, and top products in one interactive dashboard.  
 
 ---
 
 ## 🔑 Key Features  
-
-- **KPI Metrics**: Average Order Value, Total Revenue, Total Pizzas Sold, Profit Margin  
-- **Monthly Revenue Trends** with Month-over-Month Growth (%)  
-- **Hourly Sales Distribution** to identify peak demand times  
-- **Channel Distribution** (Dine-in, Takeaway, Website, Other)  
-- **Top 3 Bestselling Pizzas**  
-- **Sales by Category** (Classic, Supreme, Chicken, Veggie)  
-- **Basket Size Distribution** (items per order)  
+- KPI Metrics: Average Order Value, Total Revenue, Pizzas Sold, Profit Margin  
+- Monthly revenue trends with MoM growth analysis  
+- Sales breakdown by channel, category, and basket size  
+- Top & bottom performing pizzas  
 
 ---
 
-## 🗂 Project Structure  
-
-pizza-sales-dashboard/
-│
-├── sql/
-│ ├── Charts.sql # Queries for charts and insights
-│ └── KPI Queries.sql # Queries for KPI metrics
-│
-├── media/
-│ ├── dashboard-demo.mp4 # Screen recording of Tableau dashboard
-│ └── screenshots/ # Key screenshots from the dashboard
-│
-└── README.md
-
+## 🗂️ How SQL Fits Here  
+- SQL queries were used to calculate KPIs and prepare datasets.  
+- Examples: total revenue, sales by category, top/bottom pizzas, and order distributions.  
 
 ---
 
-## 🖼️ Dashboard Preview  
-
-
-
----
-
-## 🎥 Demo  
-
- 
+## 📊 How Tableau is Used  
+- Tableau integrates the SQL outputs into interactive visualizations.  
+- Filters (Month, Weekday) allow flexible exploration.  
+- Charts: line, bar, treemap, donut, pie for multiple perspectives.  
 
 ---
 
-## ⚙️ How It Works  
-
-1. **Data Preparation**  
-   - SQL queries were used to calculate KPIs and generate insights.  
-   - Example queries:  
-     - Total Revenue  
-     - Total Orders  
-     - Sales by Category  
-     - Top/Bottom Pizzas  
-
-2. **Visualization in Tableau**  
-   - Dashboard built with interactive filters (Month, Weekday).  
-   - Visualizations include bar charts, line charts, treemap, donut, and pie.  
-
+## ⭐ Dashboard Highlights  
+1. Peak demand occurs at **lunch (12–1 PM)** and **evening (6–8 PM)**.  
+2. **Classic & Supreme pizzas** generate the most revenue.  
+3. Most customers order **1–3 items**, but larger baskets (4–7 items) drive significant sales.  
