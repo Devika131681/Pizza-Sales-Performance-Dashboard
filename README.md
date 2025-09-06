@@ -59,6 +59,8 @@ The dashboard contains **filters** for Month and Weekday, enabling dynamic explo
 ### 📊 Dashboard Screenshot  
 ![Pizza Sales Dashboard](./Pizza%20Sales%20Dashboard.png)
 
+https://public.tableau.com/app/profile/devika.rainak/viz/PizzaBusinessPerformanceOverview/Dashboard1
+
 
 ### Charts Used  
 - **KPI Cards** → For AOV, Revenue, Pizzas Sold, Profit Margin  
