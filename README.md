@@ -57,7 +57,7 @@ Tableau was used to build an **interactive dashboard** from the SQL outputs.
 The dashboard contains **filters** for Month and Weekday, enabling dynamic exploration.  
 
 ### Dashboard Screenshot  
-![Pizza Dashboard](./9bbe5853-20f0-4ebb-b53b-460985fdd517.png)  
+![Pizza Dashboard]("C:\Users\devik\OneDrive\Pictures\Screenshots\Pizza Sales Dashboard.png")  
 
 ### Charts Used  
 - **KPI Cards** → For AOV, Revenue, Pizzas Sold, Profit Margin  
@@ -84,4 +84,4 @@ Tableau enhances interactivity by letting users click on filters and instantly u
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/pizza-sales-dashboard.git
+   git clone https://github.com/Devika131681/pizza-sales-dashboard.git
