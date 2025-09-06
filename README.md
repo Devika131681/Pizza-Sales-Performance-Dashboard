@@ -57,7 +57,7 @@ Tableau was used to build an **interactive dashboard** from the SQL outputs.
 The dashboard contains **filters** for Month and Weekday, enabling dynamic exploration.  
 
 ### Dashboard Screenshot  
-
+Pizza Sales Dashboard.png
 
 ### Charts Used  
 - **KPI Cards** → For AOV, Revenue, Pizzas Sold, Profit Margin  
